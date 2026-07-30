@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shlok1708/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Shlok1708/leetcode---solutions/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/Shlok1708/leetcode---solutions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Shlok1708/leetcode---solutions/tree/master/0283-move-zeroes) |
 | [2293-min-max-game](https://github.com/Shlok1708/leetcode---solutions/tree/master/2293-min-max-game) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shlok1708/leetcode---solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Shlok1708/leetcode---solutions/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/Shlok1708/leetcode---solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
