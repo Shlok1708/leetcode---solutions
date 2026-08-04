@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shlok1708/leetcode---solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shlok1708/leetcode---solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Shlok1708/leetcode---solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Shlok1708/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Shlok1708/leetcode---solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shlok1708/leetcode---solutions/tree/master/0054-spiral-matrix) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shlok1708/leetcode---solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shlok1708/leetcode---solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Shlok1708/leetcode---solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Shlok1708/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Shlok1708/leetcode---solutions/tree/master/0283-move-zeroes) |
 ## Greedy
