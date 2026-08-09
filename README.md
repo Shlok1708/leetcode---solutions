@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shlok1708/leetcode---solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shlok1708/leetcode---solutions/tree/master/0283-move-zeroes) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Shlok1708/leetcode---solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/1929-concatenation-of-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Shlok1708/leetcode---solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Shlok1708/leetcode---solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shlok1708/leetcode---solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/Shlok1708/leetcode---solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shlok1708/leetcode---solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/Shlok1708/leetcode---solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/1480-running-sum-of-1d-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
