@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shlok1708/leetcode---solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shlok1708/leetcode---solutions/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Shlok1708/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shlok1708/leetcode---solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shlok1708/leetcode---solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shlok1708/leetcode---solutions/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Shlok1708/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Shlok1708/leetcode---solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/Shlok1708/leetcode---solutions/tree/master/2293-min-max-game) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shlok1708/leetcode---solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shlok1708/leetcode---solutions/tree/master/0014-longest-common-prefix) |
 | [0389-find-the-difference](https://github.com/Shlok1708/leetcode---solutions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Shlok1708/leetcode---solutions/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
