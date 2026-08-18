@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shlok1708/leetcode---solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Shlok1708/leetcode---solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shlok1708/leetcode---solutions/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/Shlok1708/leetcode---solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shlok1708/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shlok1708/leetcode---solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shlok1708/leetcode---solutions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Shlok1708/leetcode---solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shlok1708/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Shlok1708/leetcode---solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/1929-concatenation-of-array) |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shlok1708/leetcode---solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
