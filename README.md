@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shlok1708/leetcode---solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Shlok1708/leetcode---solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Shlok1708/leetcode---solutions/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/Shlok1708/leetcode---solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Shlok1708/leetcode---solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shlok1708/leetcode---solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0268-missing-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shlok1708/leetcode---solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shlok1708/leetcode---solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/Shlok1708/leetcode---solutions/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -227,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shlok1708/leetcode---solutions/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shlok1708/leetcode---solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shlok1708/leetcode---solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
