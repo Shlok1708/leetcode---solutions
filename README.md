@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shlok1708/leetcode---solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shlok1708/leetcode---solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Shlok1708/leetcode---solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Shlok1708/leetcode---solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Shlok1708/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Shlok1708/leetcode---solutions/tree/master/0048-rotate-image) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shlok1708/leetcode---solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Shlok1708/leetcode---solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
