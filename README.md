@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Shlok1708/leetcode---solutions/tree/master/0149-max-points-on-a-line) |
 | [0258-add-digits](https://github.com/Shlok1708/leetcode---solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Shlok1708/leetcode---solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Shlok1708/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shlok1708/leetcode---solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shlok1708/leetcode---solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -277,4 +278,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Shlok1708/leetcode---solutions/tree/master/0149-max-points-on-a-line) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shlok1708/leetcode---solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shlok1708/leetcode---solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shlok1708/leetcode---solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shlok1708/leetcode---solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shlok1708/leetcode---solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
