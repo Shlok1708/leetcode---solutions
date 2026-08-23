@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Shlok1708/leetcode---solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Shlok1708/leetcode---solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shlok1708/leetcode---solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Shlok1708/leetcode---solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shlok1708/leetcode---solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shlok1708/leetcode---solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Shlok1708/leetcode---solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Counting Sort
