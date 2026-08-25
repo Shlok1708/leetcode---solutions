@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shlok1708/leetcode---solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shlok1708/leetcode---solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shlok1708/leetcode---solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Shlok1708/leetcode---solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Shlok1708/leetcode---solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Shlok1708/leetcode---solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shlok1708/leetcode---solutions/tree/master/0075-sort-colors) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shlok1708/leetcode---solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Shlok1708/leetcode---solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shlok1708/leetcode---solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Shlok1708/leetcode---solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shlok1708/leetcode---solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Shlok1708/leetcode---solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Shlok1708/leetcode---solutions/tree/master/0149-max-points-on-a-line) |
