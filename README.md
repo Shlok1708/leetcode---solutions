@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shlok1708/leetcode---solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shlok1708/leetcode---solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Shlok1708/leetcode---solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Shlok1708/leetcode---solutions/tree/master/1920-build-array-from-permutation) |
