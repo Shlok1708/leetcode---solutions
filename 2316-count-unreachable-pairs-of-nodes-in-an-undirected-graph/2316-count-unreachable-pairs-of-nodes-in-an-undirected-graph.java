@@ -20,7 +20,7 @@ class Solution {
             }
         }
         
-        return totalPairs-connectedPairs;
+        return totalPairs - connectedPairs;
     }
     
     private long dfs(int node, List<List<Integer>> adj, boolean[] visited) {
