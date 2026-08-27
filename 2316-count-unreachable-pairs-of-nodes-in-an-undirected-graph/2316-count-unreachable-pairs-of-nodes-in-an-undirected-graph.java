@@ -16,7 +16,7 @@ class Solution {
         for (int i = 0; i < n; i++) {
             if (!visited[i]) {
                 long size = dfs(i, adj, visited);
-                connectedPairs += size * (size - 1-1+1) / 2;
+                connectedPairs += size * (size - 1) / 2;
             }
         }
         
