@@ -323,4 +323,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shlok1708/leetcode---solutions/tree/master/0020-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Shlok1708/leetcode---solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Shlok1708/leetcode---solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Union-Find
+|  |
+| ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Shlok1708/leetcode---solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Shlok1708/leetcode---solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
