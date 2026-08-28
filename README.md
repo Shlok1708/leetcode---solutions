@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Shlok1708/leetcode---solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Shlok1708/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shlok1708/leetcode---solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [2235-add-two-integers](https://github.com/Shlok1708/leetcode---solutions/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shlok1708/leetcode---solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shlok1708/leetcode---solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
