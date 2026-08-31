@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shlok1708/leetcode---solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shlok1708/leetcode---solutions/tree/master/0042-trapping-rain-water) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Shlok1708/leetcode---solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Shlok1708/leetcode---solutions/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Shlok1708/leetcode---solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shlok1708/leetcode---solutions/tree/master/0412-fizz-buzz) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Shlok1708/leetcode---solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/Shlok1708/leetcode---solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/Shlok1708/leetcode---solutions/tree/master/2293-min-max-game) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shlok1708/leetcode---solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Shlok1708/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Shlok1708/leetcode---solutions/tree/master/0443-string-compression) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Shlok1708/leetcode---solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
 | ------- |
