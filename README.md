@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shlok1708/leetcode---solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Shlok1708/leetcode---solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Shlok1708/leetcode---solutions/tree/master/0149-max-points-on-a-line) |
+| [0231-power-of-two](https://github.com/Shlok1708/leetcode---solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shlok1708/leetcode---solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Shlok1708/leetcode---solutions/tree/master/0292-nim-game) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shlok1708/leetcode---solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Shlok1708/leetcode---solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Shlok1708/leetcode---solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Shlok1708/leetcode---solutions/tree/master/0389-find-the-difference) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shlok1708/leetcode---solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shlok1708/leetcode---solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Shlok1708/leetcode---solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Shlok1708/leetcode---solutions/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
 | ------- |
