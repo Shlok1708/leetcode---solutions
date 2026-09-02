@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shlok1708/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shlok1708/leetcode---solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Shlok1708/leetcode---solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Shlok1708/leetcode---solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Shlok1708/leetcode---solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Shlok1708/leetcode---solutions/tree/master/0068-text-justification) |
+| [0125-valid-palindrome](https://github.com/Shlok1708/leetcode---solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Shlok1708/leetcode---solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0344-reverse-string) |
