@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/Shlok1708/leetcode---solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shlok1708/leetcode---solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/Shlok1708/leetcode---solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/Shlok1708/leetcode---solutions/tree/master/2293-min-max-game) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shlok1708/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Shlok1708/leetcode---solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0567-permutation-in-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shlok1708/leetcode---solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shlok1708/leetcode---solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
