@@ -4,7 +4,7 @@ class Solution {
         for (char c : t.toCharArray()) map[c]++;
         
         int left = 0, right = 0, required = t.length();
-        int minLen = Integer.MAX_VALUE, startIndex = 1;
+        int minLen = Integer.MAX_VALUE, startIndex = 0;
         
         while (right < s.length()) {
             if (map[s.charAt(right++)]-- > 0) required--;
