@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shlok1708/leetcode---solutions/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shlok1708/leetcode---solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Shlok1708/leetcode---solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shlok1708/leetcode---solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Shlok1708/leetcode---solutions/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shlok1708/leetcode---solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Shlok1708/leetcode---solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0567-permutation-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shlok1708/leetcode---solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shlok1708/leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shlok1708/leetcode---solutions/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shlok1708/leetcode---solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shlok1708/leetcode---solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Pigeonhole Principle
