@@ -1,29 +1,27 @@
 class Solution {
     public boolean wordPattern(String pattern, String s) {
-        String[] words = s.split(" ");
-        
-        if (pattern.length() != words.length) {
+        String [] shlok = s.split(" ");
+        if(pattern.length() != shlok.length){
             return false;
         }
-        
-        for (int i = 0; i < pattern.length(); i++) {
-            char c = pattern.charAt(i);
-            String w = words[i];
-        
-            if (pattern.indexOf(c) != findWordIndex(words, w)) {
+
+        for(int i = 0;i<pattern.length();i++){
+            char a = pattern.charAt(i);
+            String word = shlok[i];
+            if(pattern.indexOf(a) != returnIndex(shlok,word)){
                 return false;
             }
         }
-        
         return true;
+      
+
     }
-   
-    private int findWordIndex(String[] words, String target) {
-        for (int i = 0; i < words.length; i++) {
-            if (words[i].equals(target)) {
-                return i;
+      private int returnIndex(String [] a, String f){
+            for(int i = 0;i<a.length;i++){
+                if(a[i].equals(f)){
+                    return i;
+                }
             }
+            return -1;
         }
-        return -1;
-    }
 }
