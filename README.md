@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shlok1708/leetcode---solutions/tree/master/0098-validate-binary-search-tree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Shlok1708/leetcode---solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
 |  |
@@ -395,4 +396,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shlok1708/leetcode---solutions/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shlok1708/leetcode---solutions/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shlok1708/leetcode---solutions/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shlok1708/leetcode---solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
