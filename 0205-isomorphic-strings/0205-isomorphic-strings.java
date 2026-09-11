@@ -1,7 +1,5 @@
 class Solution {
-    public boolean isIsomorphic(String s, String t) {
-        if (s.length() != t.length()) return false;
-        
+    public boolean isIsomorphic(String s, String t) { 
         int[] mapS = new int[128];
         int[] mapT = new int[128];
         
