@@ -11,8 +11,8 @@ class Solution {
                 return false;
             }
        
-            mapS[charS] = i + 1;
-            mapT[charT] = i + 1;
+            mapS[charS] = i+1;
+            mapT[charT] = i+1;
         }
         
         return true;
