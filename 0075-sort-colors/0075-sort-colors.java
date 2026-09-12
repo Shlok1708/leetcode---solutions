@@ -1,7 +1,6 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int s = 0, mid = 0, e = nums.length - 1;
-
+        int s = 0,mid = 0,e = nums.length - 1;
         while (mid <= e) {
             if (nums[mid] == 0) {
                 int temp = nums[s];
