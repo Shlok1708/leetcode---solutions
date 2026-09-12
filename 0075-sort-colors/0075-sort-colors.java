@@ -4,21 +4,19 @@ class Solution {
 
         while (mid <= e) {
             if (nums[mid] == 0) {
-                swap(nums, s, mid);
+                int temp = nums[s];
+                nums[s] = nums[mid];
+                nums[mid] = temp;
                 s++;
                 mid++;
             } else if (nums[mid] == 1) {
                 mid++;
             } else { 
-                swap(nums, mid, e);
+                  int temp = nums[e];
+                nums[e] = nums[mid];
+                nums[mid] = temp;
                 e--;
             }
         }
-    }
-
-    public void swap(int[] nums, int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
     }
 }
