@@ -423,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shlok1708/leetcode---solutions/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shlok1708/leetcode---solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shlok1708/leetcode---solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
