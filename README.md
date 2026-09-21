@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Shlok1708/leetcode---solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shlok1708/leetcode---solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Shlok1708/leetcode---solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Shlok1708/leetcode---solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shlok1708/leetcode---solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shlok1708/leetcode---solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Shlok1708/leetcode---solutions/tree/master/0257-binary-tree-paths) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Shlok1708/leetcode---solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
 |  |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Shlok1708/leetcode---solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shlok1708/leetcode---solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shlok1708/leetcode---solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0257-binary-tree-paths](https://github.com/Shlok1708/leetcode---solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Shlok1708/leetcode---solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shlok1708/leetcode---solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shlok1708/leetcode---solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0257-binary-tree-paths](https://github.com/Shlok1708/leetcode---solutions/tree/master/0257-binary-tree-paths) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -453,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/Shlok1708/leetcode---solutions/tree/master/2261-k-divisible-elements-subarrays) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Shlok1708/leetcode---solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
