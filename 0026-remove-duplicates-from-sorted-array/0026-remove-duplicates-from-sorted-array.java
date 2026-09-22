@@ -1,15 +1,13 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        TreeSet<Integer>shlok = new TreeSet<>();
-        for(int i = 0;i<nums.length;i++){
-            shlok.add(nums[i]);
+        int j = 0;
+        for(int i = 1;i<nums.length;i++){
+            if(nums[j] != nums[i]){
+                j++;
+                nums[j] = nums[i];
+              
+            }
         }
-        int k = 0;
-        for(int i : shlok){
-            nums[k] = i; 
-            k++;
-        }
-        return shlok.size();
-        
+        return j+1;
     }
 }
