@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shlok1708/leetcode---solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/Shlok1708/leetcode---solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/1929-concatenation-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Shlok1708/leetcode---solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Shlok1708/leetcode---solutions/tree/master/2261-k-divisible-elements-subarrays) |
 | [2293-min-max-game](https://github.com/Shlok1708/leetcode---solutions/tree/master/2293-min-max-game) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shlok1708/leetcode---solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
