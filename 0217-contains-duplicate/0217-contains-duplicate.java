@@ -2,10 +2,11 @@ class Solution {
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> shlok = new HashSet<>();
         for(int i : nums){
-            if(!shlok.add(i)){
-                return true;
-            }
+           shlok.add(i);
+           if(nums.length == shlok.size()){
+            return false;
+           }
         }
-        return false; 
+        return true; 
     }
 }
