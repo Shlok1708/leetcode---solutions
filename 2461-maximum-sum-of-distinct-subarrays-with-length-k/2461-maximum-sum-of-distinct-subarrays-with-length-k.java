@@ -7,7 +7,7 @@ class Solution {
             while(shlok.contains(nums[i])|| shlok.size() ==k){
                 currentSum -= nums[left];
                 shlok.remove(nums[left]);
-                left++ ;
+                left++;
             }
             shlok.add(nums[i]);
             currentSum += nums[i];
