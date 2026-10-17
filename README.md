@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shlok1708/leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok1708/leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shlok1708/leetcode---solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0832-flipping-an-image](https://github.com/Shlok1708/leetcode---solutions/tree/master/0832-flipping-an-image) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shlok1708/leetcode---solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/Shlok1708/leetcode---solutions/tree/master/1051-height-checker) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Shlok1708/leetcode---solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shlok1708/leetcode---solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shlok1708/leetcode---solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0567-permutation-in-string) |
+| [0832-flipping-an-image](https://github.com/Shlok1708/leetcode---solutions/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shlok1708/leetcode---solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shlok1708/leetcode---solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shlok1708/leetcode---solutions/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/Shlok1708/leetcode---solutions/tree/master/0832-flipping-an-image) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shlok1708/leetcode---solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Shlok1708/leetcode---solutions/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Shlok1708/leetcode---solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shlok1708/leetcode---solutions/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/Shlok1708/leetcode---solutions/tree/master/0832-flipping-an-image) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shlok1708/leetcode---solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/Shlok1708/leetcode---solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/1929-concatenation-of-array) |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Shlok1708/leetcode---solutions/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/Shlok1708/leetcode---solutions/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
