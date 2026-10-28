@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shlok1708/leetcode---solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shlok1708/leetcode---solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Shlok1708/leetcode---solutions/tree/master/0071-simplify-path) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shlok1708/leetcode---solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Shlok1708/leetcode---solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Shlok1708/leetcode---solutions/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Shlok1708/leetcode---solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Shlok1708/leetcode---solutions/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Shlok1708/leetcode---solutions/tree/master/0125-valid-palindrome) |
