@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Shlok1708/leetcode---solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok1708/leetcode---solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shlok1708/leetcode---solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/Shlok1708/leetcode---solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/Shlok1708/leetcode---solutions/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Shlok1708/leetcode---solutions/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Shlok1708/leetcode---solutions/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/Shlok1708/leetcode---solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Shlok1708/leetcode---solutions/tree/master/0205-isomorphic-strings) |
