@@ -534,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Shlok1708/leetcode---solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Shlok1708/leetcode---solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
