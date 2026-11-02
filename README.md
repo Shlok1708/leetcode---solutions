@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shlok1708/leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok1708/leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/Shlok1708/leetcode---solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Shlok1708/leetcode---solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0832-flipping-an-image](https://github.com/Shlok1708/leetcode---solutions/tree/master/0832-flipping-an-image) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shlok1708/leetcode---solutions/tree/master/0989-add-to-array-form-of-integer) |
