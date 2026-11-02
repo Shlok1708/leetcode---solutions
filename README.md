@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Shlok1708/leetcode---solutions/tree/master/1051-height-checker) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Shlok1708/leetcode---solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1470-shuffle-the-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shlok1708/leetcode---solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shlok1708/leetcode---solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/Shlok1708/leetcode---solutions/tree/master/1920-build-array-from-permutation) |
