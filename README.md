@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shlok1708/leetcode---solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shlok1708/leetcode---solutions/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/Shlok1708/leetcode---solutions/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/Shlok1708/leetcode---solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shlok1708/leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok1708/leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Shlok1708/leetcode---solutions/tree/master/0146-lru-cache) |
+| [0284-peeking-iterator](https://github.com/Shlok1708/leetcode---solutions/tree/master/0284-peeking-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -554,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Shlok1708/leetcode---solutions/tree/master/0182-duplicate-emails) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/Shlok1708/leetcode---solutions/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
