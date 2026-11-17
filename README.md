@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shlok1708/leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shlok1708/leetcode---solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shlok1708/leetcode---solutions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Shlok1708/leetcode---solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Shlok1708/leetcode---solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok1708/leetcode---solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Shlok1708/leetcode---solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Shlok1708/leetcode---solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Shlok1708/leetcode---solutions/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Shlok1708/leetcode---solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Shlok1708/leetcode---solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Shlok1708/leetcode---solutions/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Shlok1708/leetcode---solutions/tree/master/0132-palindrome-partitioning-ii) |
